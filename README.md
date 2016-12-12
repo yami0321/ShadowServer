@@ -1,2 +1,2 @@
-#Shadow Network Server
-#Minecraft Server Wiki.
+#Shadow Network Server.
+#Minecraft Server HP.
